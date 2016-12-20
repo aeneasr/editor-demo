@@ -28,7 +28,8 @@ const config = {
     ],
     link: [
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Source+Sans+Pro' },
-      { rel: 'stylesheet', href: 'assets/css/main.css' }
+      { rel: 'stylesheet', href: 'assets/css/main.css' },
+      { rel: 'stylesheet', href: 'https://unpkg.com/ory-editor@0.0.17/dist/styles.css' }
     ],
     script: [
       { src: 'assets/js/jquery.min.js' },
