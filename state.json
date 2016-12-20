@@ -1,0 +1,108 @@
+{
+  "index": {
+    "id": "index",
+    "cells": [
+      {
+        "id": "770050d9-eca3-4e31-9fdf-1a0c009356f1",
+        "rows": [
+          {
+            "id": "83a69389-8a26-4540-9bee-9c80cbd3dcae",
+            "cells": [
+              {
+                "id": "87105eae-6c8b-4888-b876-8ab7bd221f67",
+                "content": {
+                  "plugin": {
+                    "name": "ory/editor/core/content/slate",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "serialized": {
+                      "nodes": [
+                        {
+                          "kind": "block",
+                          "type": "HEADINGS/HEADING-ONE",
+                          "nodes": [
+                            {
+                              "kind": "text",
+                              "text": "The Home Page ..."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "38295737-3981-4e92-972c-f4ed7368e4a8",
+            "cells": [
+              {
+                "id": "70aab97c-4b30-41c8-abae-27bc4b9abaa9",
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "style": 3
+                  }
+                },
+                "rows": [
+                  {
+                    "id": "cf458259-3518-407f-8612-e82910d88bae",
+                    "cells": [
+                      {
+                        "id": "ae7ed996-467e-4e84-bfd3-a607ea930bcb",
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "qweqwewqeqwewe"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "744a9b95-a088-40c8-9574-1bcbac642d47",
+            "cells": [
+              {
+                "id": "13936c24-8280-4cb2-a613-3f98573ebf19",
+                "content": {
+                  "plugin": {
+                    "name": "ory/editor/core/content/spacer",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "height": 43
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
