@@ -22,7 +22,7 @@ const config = {
   },
   // helmet config applied to every page
   helmet: {
-    title: 'Single Page Site',
+    title: 'ORY Editor Static Page Demo',
     meta: [
       { charset: 'utf-8' }
     ],
