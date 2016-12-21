@@ -123,7 +123,7 @@
                                   "nodes": [
                                     {
                                       "kind": "text",
-                                      "text": "...is important"
+                                      "text": "...is importantasdfasdf"
                                     }
                                   ],
                                   "data": {
@@ -362,6 +362,152 @@
                                     {
                                       "kind": "text",
                                       "text": "But what if all I have to say is lorem ipsum? Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "jakob": {
+    "id": "jakob",
+    "cells": [
+      {
+        "id": "37852845-7428-49a5-915b-3438a2016f84",
+        "inline": null,
+        "size": 12,
+        "rows": [
+          {
+            "id": "06781e5c-916f-4c54-8102-3cb7359e1cbb",
+            "cells": [
+              {
+                "id": "35aec09a-e56e-47a8-8d21-88498eab4923",
+                "inline": null,
+                "size": 12,
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "style": 2
+                  }
+                },
+                "rows": [
+                  {
+                    "id": "afeaeb47-2078-44dd-acf6-1dda69071ec6",
+                    "cells": [
+                      {
+                        "id": "fc7a7b67-756b-4835-8b5f-8070a373e134",
+                        "inline": "right",
+                        "size": 6,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/image",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "src": "https://static.pexels.com/photos/4164/landscape-mountains-nature-mountain.jpeg"
+                          }
+                        }
+                      },
+                      {
+                        "id": "30f754b8-bce9-4014-b4af-ff11077858a6",
+                        "inline": null,
+                        "size": 12,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "HEADINGS/HEADING-TWO",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "Hallo Jakob!"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "309b4123-8c93-4e71-80df-fc6d2f32b7cc",
+            "cells": [
+              {
+                "id": "528d2b37-71dd-418b-9600-a481cb320582",
+                "inline": null,
+                "size": 12,
+                "layout": {
+                  "plugin": {
+                    "name": "example/layout/parallax",
+                    "version": "0.0.1"
+                  },
+                  "state": {
+                    "style": 2
+                  }
+                },
+                "rows": [
+                  {
+                    "id": "130ae78c-3f99-46ed-9b06-d8ce30d5333e",
+                    "cells": [
+                      {
+                        "id": "04702c1c-20f5-4de7-ab2d-26f1df2afbcd",
+                        "inline": null,
+                        "size": 6,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/video",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "src": "https://vimeo.com/196231197"
+                          }
+                        }
+                      },
+                      {
+                        "id": "4e8fc3aa-033f-4783-8935-f2f6c8564f6b",
+                        "inline": null,
+                        "size": 6,
+                        "content": {
+                          "plugin": {
+                            "name": "ory/editor/core/content/slate",
+                            "version": "0.0.1"
+                          },
+                          "state": {
+                            "serialized": {
+                              "nodes": [
+                                {
+                                  "kind": "block",
+                                  "type": "PARAGRAPH/PARAGRAPH",
+                                  "nodes": [
+                                    {
+                                      "kind": "text",
+                                      "text": "asdfasdf"
                                     }
                                   ]
                                 }
